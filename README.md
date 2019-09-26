@@ -5,7 +5,7 @@
 ### Author: Joseph Hangarter; mobbed with class
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-33-practice/pull/1)
 
 ### Modules
 #### `index.js` - entry point
